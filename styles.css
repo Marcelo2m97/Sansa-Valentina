@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  background-color: #0288D1;
+  font-family: 'Libre Franklin';
+}
+
+nav{
+  background-color: #EEEEEE;
+  font-family: 'Pacifico';
+  font-size: 3vw;
+  position: relative;
+  text-align: center;
+  width: 100%;
+}
+
+#presentation{
+  text-align: center;
+}
+
+#introduction {
+  font-size: 1.3vw;
+  text-align: justify;
+}
+
+#cards {
+  display: inline;
+}
