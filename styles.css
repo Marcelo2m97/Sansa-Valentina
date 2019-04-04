@@ -31,7 +31,7 @@ nav{
 
 .card {
   background-color: #FFFFFF;
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.6);
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.6);
   float: left;
   margin: 1%;
   transition: 0.4s;
@@ -39,10 +39,14 @@ nav{
 }
 
 .card:hover {
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.6);
+  box-shadow: 0 32px 64px 0 rgba(0,0,0,0.6);
 }
 
 .dog_name {
   font-family: 'Pacifico';
   font-size: 1.5vw;
+}
+
+img {
+  width: 100%;
 }
