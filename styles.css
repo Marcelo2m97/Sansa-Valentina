@@ -50,6 +50,15 @@ nav{
   text-align: center;
 }
 
+.dog_name_modal {
+  font-family: 'Pacifico';
+  font-size: 2vw;
+}
+
+.dog_paragraph_modal {
+  text-align: justify;
+}
+
 .first_image {
   border-radius: 0.3em 0.3em 0 0;
   width: 100%;
